@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Narges Mokhtari</h1>
-<h3 align="center">A passionate Python developer</h3>
 
 - 📫 How to reach me **mokhtaari.narges@gmail.com**
 
